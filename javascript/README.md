@@ -4,5 +4,4 @@ To run the algoritm in command line:
 `script index.js`
 (index.js because this is the files name. If the file was a different name, this would be `script` followed by whatever the name of the folder is)
 
-
-Do you have Spring break off?
+How are Javascript and Java similar, and how are they different?

@@ -4,4 +4,4 @@ To run the algoritm in command line:
 `script index.js`
 (index.js because this is the files name. If the file was a different name, this would be `script` followed by whatever the name of the folder is)
 
-How are Javascript and Java similar, and how are they different?
+How are Javascript and Java similar, and how are they different? One significant differences is that Java can be used to develop desktop and mobile applications in addition to web apps, while Javascript is used strictly for web app development.

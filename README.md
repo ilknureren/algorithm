@@ -10,4 +10,4 @@ LS: List
 `ls`
 `ls` lists all files and directories in the working directory.
 
-hello world!
+bonjour monde!
